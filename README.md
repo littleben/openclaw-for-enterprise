@@ -2,7 +2,7 @@
 
 **一键部署企业级 AI Agent，让每个员工在飞书里拥有专属 AI 助手。**
 
-OpenClaw Deploy Kit 是一套基于 [OpenClaw](https://github.com/anthropics/openclaw) 的企业部署方案，通过飞书机器人 + Docker 容器隔离架构，让组织内每个成员无需任何配置，直接在飞书中与 AI Agent 对话，并让 AI 代为操作飞书中的任务、日历、文档、多维表格等工具。
+OpenClaw Deploy Kit 是一套基于 [OpenClaw](https://github.com/openclaw/openclaw) 的企业部署方案，通过飞书机器人 + Docker 容器隔离架构，让组织内每个成员无需任何配置，直接在飞书中与 AI Agent 对话，并让 AI 代为操作飞书中的任务、日历、文档、多维表格等工具。
 
 ---
 
@@ -151,9 +151,15 @@ pm2 status
 
 ---
 
+## 文档
+
+- [完整方案文档（飞书）](https://waytoagi.feishu.cn/docx/IRvEdJrmDovSuqxhPhcc0iJxncd)
+
 ## 联系我们
 
-> 联系方式即将更新
+扫码加入微信交流群：
+
+<img src="./assets/wechat-group.jpg" alt="微信交流群" width="300">
 
 ---
 
