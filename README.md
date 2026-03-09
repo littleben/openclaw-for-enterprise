@@ -1,4 +1,4 @@
-# OpenClaw Deploy Kit
+# OpenClaw for Enterprise
 
 **一键部署企业级 AI Agent，让每个员工在飞书里拥有专属 AI 助手。**
 
